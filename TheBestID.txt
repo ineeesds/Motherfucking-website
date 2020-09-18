@@ -1,112 +1,138 @@
+
 <!DOCTYPE html>
 <html>
 <title>The Best Motherfucking Website</title>
 
 <head>
-<style type="text/css">body{margin:40px auto;max-width:650px;line-height:1.6;font-size:18px;color:#444;padding:010px}h1,h2,h3{line-height:1.2}
+<style type="text/css">body{margin:40px auto;max-width:650px;line-height:1.6;font-size:16px;color:#444;padding:010px}h1,h2,h3{line-height:1.2}
 </style>
 </head>
 
 <body>
+<font face="Arial">
 <h1>This is the <em>best</em> motherfucking website.</h1>
 Really, it is.
 
 <h2>Seriously, you guys think that a fucking website doesn't need some styling?</h2>
 You probably build websites using vim and feeling hardcore. You think your 4.99KB <span class="mfw">motherfuckingwebsite</span>(.com) is going to get you some fucking award to put on your damn footer as a link. You think your fucking default font is gonna make your website run even on a toaster.
 
-WRONG, motherfucker.
+<p><u><FONT color="red">WRONG</FONT></u>, motherfucker.</p>
 
-The best kick-ass website
-Let me describe the real perfect-ass website which still has the glory of the past motherfuckingwebsites:
+<h2>The best kick-ass website</h2>
+Let me describe the <em>real</em> perfect-ass website which still has the glory of the past motherfuckingwebsites:
 
-Shit doesn't weigh a ton (in fact it's just 34.97 KB when the 27.83KB cat picture below is removed)
-The page weighs exactly 63.02kB, 93.7% less than the Google home page
-Fits on your iPhone 1st gen (although it doesn't work on your damn 16x32 Tamagotchi)
-Looks almost the same on every screen
-Every asshole that visits this website can use it without any problem well, kind of
-It's accessible, so everyone can enjoy it but not everyone can read this - this text is Ant-Accessible
-Shit is even more legible than the fucking two previous versions - and it also has a cleanish style without looking like an ARPANET website
-Doesn't load massive images or scripts. We should all care about people who still use IPoAC
-Uses only free and open resources. Like this ass-breaking font called "Open Sans" which btw weighs 15.21kB, wtf
-It doesn't load your glorious jQuery or jQueryUI with all their fucking styles and shits. Nor Angular or any other framework. This website is made with plain HTML, CSS3 and JS. Keep it Vanilla!
-Doesn't include any tracking service this website does, but hey, who cares
-Images aren't forbidden, but when SVG is available JUST USE IT.
-Use some fucking colors.
-Links don't really need to keep that shitty blue the browser is giving them: nor that violetish color when they are marked as visited. Just give them a nice color
-Well guess what, motherfucker:
-This website is even better than the last guy and the guy before him.
+<ul>
+<li>Shit doesn't weigh a ton (in fact it's just 34.97 KB when the 27.83KB cat picture below is removed)</li>
+<li>The page weighs exactly 63.02kB, 93.7% less than the <a href="https://www.google.com/">Google home page</a></li>
+<li>Fits on your iPhone 1st gen (although it doesn't work on your damn 16x32 Tamagotchi)</li>
+<li>Looks <em>almost</em> the same on every screen</li>
+<li>Every asshole that visits this website can use it without any problem <FONT size="1px">well, kind of</font></li>
+<li>It's <a href="https://www.w3.org/TR/WCAG20/">accessible</a>, so everyone can enjoy it <FONT size="1px">but not everyone can read this - this text is Ant-Accessible</font></li>
+<li>Shit is <em>even more</em> legible than the fucking two previous versions - and it also has a cleanish style without looking like an <a href="https://en.wikipedia.org/wiki/ARPANET">ARPANET</a> website</li>
+<li>Doesn't load massive images or scripts. We should all care about people who still use <a href="https://en.wikipedia.org/wiki/IP_over_Avian_Carriers">IPoAC</a></li>
+<li>Uses only free and open resources. Like this ass-breaking font called "Open Sans" <FONT size="1px">which btw weighs 15.21kB, wtf</font></li>
+<li>It doesn't load your glorious jQuery or jQueryUI with all their fucking styles and shits. Nor Angular or any other framework. This website is made with plain HTML, CSS3 and JS. Keep it Vanilla!</li>
+<li>Doesn't include any tracking service <FONT size="1px">this website does, but hey, who cares</font></li>
+<li>Images aren't forbidden, but when SVG is available <em>JUST USE IT</em>.</li>
+<li>Use <em>some</em> fucking <FONT color="#FA8072">colors</FONT>.</li>
+<li>Links don't really need to keep that <FONT color="blue">shitty blue</FONT> the browser is giving them: nor that <FONT color="#D473D4">violetish color</FONT> when they are marked as visited. Just give them a <a href="http://www.colorhexa.com/0077aa">nice color</a></li>
+</ul>
 
-Why?
+<h2>Well guess what, motherfucker:</h2>
+This website is even better than the last <a href="http://bettermotherfuckingwebsite.com/">guy</a> and the <a href="http://motherfuckingwebsite.com/">guy before him</a>.
 
-It's over a secure connection - so nobody can spy what we're serving to you (the page might be different for everyone, pshht!).
-It uses one of the most general gTLDs available out there: .website
-It uses the TLD, too: bestmotherfucking.website, check out domainr to do something cool too.
-It uses the kickass Let's Encrypt CA (don't you see the gorgeous lock?)
-It runs on nginx: the best fucking web server instead of Apache Server
-It uses a custom version of the awesome ultra-lightweight jQuery /s
-It doesn't use a single media query well, not really
-It probably doesn't support all the web browsers, but that's the best thing - if the user's browser is outdated he will notice and maybe he will switch from the crap he uses to a much cooler browser
-It uses some cool technologies like JavaScript JavaScript logo, CSS3 CSS3 logo and HTML5 HTML5 Logo
-It supports HTTP/2
-It includes a Cache-Control header, so you don't waste your precious bandwidth if you visit the website more than once
-It uses Piwik, a free and Open Source analytics platform (we still love you Google, don't be mad at us)
-It allows universal access from every website via CORS
-It is Accessible
-It's Open Source, freely available on Github, and everybody can contribute to it.
-It uses the WTFPL - Do What the Fuck You Want to Public License, which is pretty clear on what you can and what you can't do:
+<p>Why?</p>
+
+<ul>
+<li>It's over a <a href="https://en.wikipedia.org/wiki/HTTPS">secure connection</a> - so nobody can spy what we're serving to you (the page might be different for everyone, pshht!).</li>
+<li>It uses one of the most general <a href="https://en.wikipedia.org/wiki/Generic_top-level_domain">gTLDs</a> available out there: .website</li>
+<li>It uses the TLD, too: bestmotherfucking.website, check out <a href="https://domainr.com/">domainr</a> to do something cool too.</li>
+<li>It uses the kickass <a href="https://letsencrypt.org/">Let's Encrypt</a> CA (don't you see the gorgeous lock?)</li>
+<li>It runs on <a href="https://www.nginx.com/welcome-to-nginx/">nginx</a>: the best fucking web server instead of Apache Server</li>
+<li>It uses a <a href="https://thebestmotherfucking.website/js/jquery-2.2.4.min.js">custom version</a> of the awesome <a href="https://jquery.com/">ultra-lightweight jQuery</a> <strong>/s</strong></li>
+<li>It doesn't use a single media query <FONT size="1px">well, not really</FONT></li>
+<li>It probably doesn't support all the web browsers, but that's the best thing - if the user's browser is outdated he will notice and maybe he will switch from <a href="https://support.microsoft.com/fr-fr/office/aide-d-internet-explorer-23360e49-9cd3-4dda-ba52-705336cc0de2?ui=fr-FR&rs=fr-FR&ad=FR">the crap he uses</a> to <a href="https://www.mozilla.org/fr/firefox/">a much cooler browser</a></li>
+<li>It uses some cool technologies like JavaScript <img src="C:\Users\inesd\OneDrive\Images/Java.png"alt=""height="20"width="20"/>, 
+CSS3 <img src="C:\Users\inesd\OneDrive\Bureau/CSS3 logo.png"alt=""/> 
+and HTML5 <img src="C:\Users\inesd\OneDrive\Bureau/HTML5.png"alt=""/></li>
+<li>It supports <a href="https://en.wikipedia.org/wiki/HTTP/2HTTP/2>HTTP/2</a></li> 
+<li>It includes a Cache-Control header, so you don't waste your precious bandwidth if you visit the website more than once</li>
+<li>It uses <a href="https://matomo.org/">Piwik</a>, a free and Open Source analytics platform (we still love you Google, don't be mad at us)</li>
+<li>It allows universal access from every website via <a href="https://enable-cors.org/">CORS</a></li>
+<li>It is <a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Accessible</a></li>
+<li>It's Open Source, freely available on <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/">Github</a>, and everybody can contribute to it.</li>
+<li>It uses the <a href="http://www.wtfpl.net/">WTFPL - Do What the Fuck You Want to Public License</a>, which is pretty clear on what you can and what you can't do:</li>
+</ul>
+
 0. You just DO WHAT THE FUCK YOU WANT TO.
 
-Put even less contrast
-Yeah, a #444 is cool but a #454545 is better.
+<h2>Put even less contrast</h2>
+Yeah, a <strong>#444 is cool</strong> but a <strong>#454545 is better</strong>.
 
-We don't need to break our eyes while looking at a motherfuckingwebsite.
+<p>We don't need to break our eyes while looking at a motherfuckingwebsite.</p>
 
-Size matters, yeah, but don't exaggerate
+<h2>Size matters, yeah, but don't exaggerate</h2>
 Remember, not everybody is blind, and not everybody wants to read a fucking 2 inches letter on a 27 inches screen, so keep it cool. Don't exaggerate in size, but don't make an ant-compatible text either.
 
-Put some pictures
-white and gray cat looking at you, with his yellow and green eyes
-A cat, just to keep the context of the website.
-We're not looking at a novel by Stephanie Meyer, this is a motherfuckingwebsite so include some pictures to give a context.
+<h2>Put some pictures</h2>
 
-The website shouldn't be overfilled with pictures, but it should make the user happy while reading your nonsense words.
+<img src="C:\Users\inesd\OneDrive\Bureau/covidcat.jpg"alt=""/>
+<FONT size="1px">
+<figcaption>A cat, just to keep the context of the website.</figcaption>
+</font>
+<p>We're not looking at a novel by Stephanie Meyer, this is a motherfuckingwebsite so include some pictures to give a context.</p>
 
-You see that fancy cat? He's happy, you should be too.
+<p>The website shouldn't be overfilled with pictures, but it should make the user happy while reading your nonsense words.</p>
 
-Yes, even this is satire.
-But this doesn't mean you should load your motherfuckingwebsite with shitty animations, instead keep it simple, minify its resources and use images responsibly. Remember the IPoAC users, requests (with a small size) = faster load time!
+<p>You see that fancy cat? He's happy, you should be too.</p>
 
-Good design is as little design as possible.
-Some German motherfucker on motherfuckingwebsite.com
-That's not entirely true, look at that motherfuckingwebsite. It's so minimal that it can be considered crap.
+<h2>Yes, even this is satire.</h2>
+But this doesn't mean you should load your <FONT color="#AC1E44">motherfuckingwebsite</FONT> with shitty animations, instead keep it simple, minify its resources and use images responsibly. Remember the IPoAC users, requests (with a small size) = faster load time!
 
-Epilogue
-Actually this website was made to follow the trend of the motherfuckingwebsite and the bettermotherfuckingwebsite.
+<p><blockquote>"Good design is as little design as possible"<br />
+<em><FONT size="1px">- Some German motherfucker on motherfuckingwebsite.com</FONT></em></blockquote>
+That's not entirely true, look at that <FONT color="#AC1E44">motherfuckingwebsite</FONT>. It's so minimal that it can be considered crap.
 
-Despite what was said here they're beautiful and truly among the best websites on the internet (even though this is still thebestmotherfuckingwebsite), so go check 'em out.
+<h2>Epilogue</h2>
+Actually this website was made to follow the trend of the <a href="http://motherfuckingwebsite.com/">motherfuckingwebsite</a> and the <a href="http://bettermotherfuckingwebsite.com/">bettermotherfuckingwebsite</a>.
+
+Despite what was said here they're beautiful and truly among the best websites on the internet (even though this is still <FONT color="#AC1E44">thebestmotherfuckingwebsite</FONT>), so go check 'em out.
 
 Seriously, follow some of the advice we gave you, they'll "make the web great again" Cit. needed
 
-Author
-This website was created by an annoyed developer that can be followed on Twitter, followed on GitHub or contacted here, on his ultra-minimalist website
+<h2>Author</h2>
 
-Resources
-The cat picture was taken from the cool Pixabay website: check it out, it's really cool and full of CC0 (aka Public Domain) content. The author is 1899441 (seriously? His username looks like my PIN code!), the old picture was by aloiswohlfahrt, but I had to change it, cause it was too heavy and too cute. You can open an issue on GitHub if you think that this decision goes against the rules of a good looking motherfuckingwebsite.
+This website was created by an annoyed developer that can <a href="https://twitter.com/DenysVitali">be followed on Twitter</a>,
+<a href="https://github.com/denysvitali/">followed on GitHub</a> or contacted <a href="https://denv.it/">here, on his ultra-minimalist website</a></p><h2>Resources</h2><p>The cat picture was taken from the cool <a href="https://pixabay.com/">Pixabay</a> website: check it out, it's really cool and full of CC0 (aka Public Domain) content.
 
-Legal
-This website can be freely copied, modified, altered, distributed without any attribution whatsoever. However, if you feel like this website deserves an attribution, mention it. It won't hurt anybody :)
+The author is <a href="https://pixabay.com/en/users/1899441-1899441/">1899441</a> (seriously? 
+His username looks like my PIN code!), the <a href="https://pixabay.com/en/cat-pets-cat-s-eyes-mieze-dear-451377/">old picture</a> was
+by <a href="https://pixabay.com/en/users/aloiswohlfahrt-123449/">aloiswohlfahrt</a>,but I had to change it, cause it was too heavy and too cute.
 
-Please, read the license terms.
+You can <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/issues/new">open an issue on GitHub</a> if you think that this decision goes against the rules
+of a good looking <FONT color="#AC1E44">motherfuckingwebsite</FONT>.
+
+<h2>Legal</h2>
+
+<p>This website can be freely copied, modified, altered, distributed without any attribution whatsoever. 
+However, if you feel like this website deserves an attribution, mention it. It won't hurt anybody :)</p><p>Please, read the <a href="LICENSE.txt">license terms</a>.
+<br>
 Don't worry, it can be read in less than 30 seconds, unless you have some sort of reading disability - in that case, I'm wondering why you're still reading this text. Really. Stop. Please. I mean, seriously. Why are you still reading?
+</p>
 
-Kopimi Logo
-Contributions
-Since this website includes some contributions, and I'm not an asshole, I'll publically thank the following users for their help:
+<h2>Contributions</h2>
 
-@beardog108 for his precious suggestions for the server side part (Cache-Control, HTTP/2, CORS and Piwik)
-@5ilver, @abluejelly, @bharadwaj-raju for giving tips about contrast
-@hellerbarde for his hint about the visited link color (he proposed maroon) - if you don't like it, complain about it here
-@glodime for his suggestion about text justification on mobile
-@arthurtiteica and @vktec for their suggestions about PIN Code / RAS Syndrome fix.
-@friendlyanon and @C-Lodder for improving the JS.
-@Zsavajji, @CapacitorSet, @danielquinn, @ehea617, @MrSaad, @tqdv, @mothinx for their help in spell checking
+<p>Since this website includes some contributions, and I'm not an asshole, I'll publically thank the following users for their help:</p>
+
+<ul>
+<li><a href="https://github.com/beardog108">@beardog108</a> for his <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/issues/5">precious suggestions</a> for
+the server side part (Cache-Control, HTTP/2, CORS and Piwik)</li>
+<li><a href="https://github.com/5ilver">@5ilver</a>, <a href="https://github.com/abluejelly">@abluejelly</a>, <a href="https://github.com/bharadwaj-raju">@bharadwaj-raju</a> for giving tips about <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/issues?q=label%3Acontrast">contrast</a></li>
+<li><a href="https://github.com/hellerbarde">@hellerbarde</a> for his hint about the visited link color (he proposed <a href="http://clrs.cc/">maroon</a>) - if you don't like it, <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/issues/11">complain about it here</a></li>
+<li><a href="https://github.com/glodime">@glodime</a> for his suggestion about <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/issues/12">text justification on mobile</a></li>
+<li><a href="https://github.com/arthurtiteica">@arthurtiteica</a> and <a href="https://github.com/vktec">@vktec</a> for their suggestions about <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/issues/9">PIN Code</a> / <a href="https://en.wikipedia.org/wiki/RAS_syndrome">RAS Syndrome</a> fix.</li>
+<li><a href="https://github.com/friendlyanon">@friendlyanon</a> and <a href="https://github.com/C-Lodder">@C-Lodder</a> for improving the JS.</li>
+<li><a href="https://github.com/Zsavajji">@Zsavajji</a>, <a href="https://github.com/CapacitorSet">@CapacitorSet</a>, <a href="https://github.com/danielquinn">@danielquinn</a>, <a href="https://github.com/ehea617">@ehea617</a>, <a href="https://github.com/MrSaad">@MrSaad</a>, <a href="https://github.com/tqdv">@tqdv</a>,<a href="https://github.com/mothinx">@mothinx</a> for <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/pulls?q=is%3Apr+is%3Aclosed+label%3A%22spell+checking%22">their help in spell checking
+
+</font>
+</html>
